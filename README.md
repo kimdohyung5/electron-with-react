@@ -5,3 +5,5 @@
     	"both": "concurrently \"npm run start\" \"npm run electron:start\""
     4) "main": "public/electron.js"을 package.js에 추가한다.
     5) npm run both를 실행해서 잘 작동하는지 테스트를 한다.
+    
+    리액트 관련 참고 사이트 : https://github.com/shmoon2917 
